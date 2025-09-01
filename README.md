@@ -1,5 +1,9 @@
 # RunWithMoney
-돈가방을 갖고 튀어라
+돈가방을 갖고 튀어라!
+
+코마님의 "돈가방을 갖고 튀어라!"을 모작하였습니다.
+
+문제가 될 시 언제든지 삭제가 될 수 있습니다.
 
 /run_with_money help를 통해 명령어에 대해 확인할 수 있습니다. [설명 영상](https://youtu.be/4ryAAeQnlR0?si=cgOocVTyyia5qHIl)
 
